@@ -1,0 +1,3824 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4YA2010031600001", 
+            "Submitter Type": "E", 
+            "Submission Date": "4/16/2010 7:39:00 AM", 
+            "Submitter Designator": "P4YA", 
+            "Registration #": "967BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013020600014", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/6/2013 11:59:17 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "607AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013020600024", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/6/2013 11:40:57 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "969BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA060214003", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/6/2006 10:42:20 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140124001", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/24/2014 4:35:57 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140124002", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/24/2014 5:28:50 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326110", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326111", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326112", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326113", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326116", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326117", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326118", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326122", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326123", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326119", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326121", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326124", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326125", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326128", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326114", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326115", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326120", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326127", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326129", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326126", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326130", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000125", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/19/2008 8:11:53 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "961BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA201309130002", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/13/2013 5:56:57 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150326131", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/26/2015 1:13:15 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000995", 
+            "Submitter Type": "E", 
+            "Submission Date": "11/26/2009 2:31:26 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "962BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BIGASDR1103", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/4/2011 5:41:22 PM", 
+            "Submitter Designator": "BIGA", 
+            "Registration #": "117BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2010051110001", 
+            "Submitter Type": "B", 
+            "Submission Date": "5/11/2010 12:10:44 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "424CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2010051110002", 
+            "Submitter Type": "B", 
+            "Submission Date": "5/11/2010 12:22:41 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "424CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4246", 
+            "Submitter Type": "A", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "3RAA2013212001", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/9/2013 12:01:40 PM", 
+            "Submitter Designator": "3RAA", 
+            "Registration #": "467CS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140507", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/7/2014 12:44:35 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA041230001", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/3/2005 8:54:34 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010411CW005", 
+            "Submitter Type": "E", 
+            "Submission Date": "4/11/2001 9:22:56 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "PQ4M2014F00000", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/18/2013 10:57:01 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "464HA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140627001", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/27/2014 5:18:18 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHAA20130412004", 
+            "Submitter Type": "E", 
+            "Submission Date": "4/15/2013 6:56:31 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4Y2008F00001", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/25/2008 9:54:17 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "1269J"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016F00121", 
+            "Submitter Type": "B", 
+            "Submission Date": "5/10/2016 10:12:34 AM", 
+            "Submitter Designator": "MV1R", 
+            "Registration #": "217B"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6329", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "424CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6330", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "424CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6332", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "424CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "SROM2011011", 
+            "Submitter Type": "C", 
+            "Submission Date": "10/21/2011 5:18:31 PM", 
+            "Submitter Designator": "SROM", 
+            "Registration #": "405CP"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140327", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/27/2014 2:18:12 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "FXTA2016F00034", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/8/2015 5:29:33 PM", 
+            "Submitter Designator": "FXTA", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014030561", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/7/2014 8:25:14 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "603AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20150309001", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/9/2015 1:48:10 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "437CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "Z8R2003F00000", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/20/2003 8:49:14 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "352CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "3RAA2012212001", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/30/2012 6:50:26 AM", 
+            "Submitter Designator": "3RAA", 
+            "Registration #": "467CS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150203106", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/6/2015 9:19:33 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "604AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "A8OA090717001", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/20/2009 10:24:08 AM", 
+            "Submitter Designator": "A8OA", 
+            "Registration #": "423C"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013032200004", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/22/2013 10:17:54 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "969BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA2014033100001", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/31/2014 1:28:54 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA201310100001", 
+            "Submitter Type": "E", 
+            "Submission Date": "10/10/2013 1:25:57 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "4399T"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BIGA20110504001", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/5/2011 10:39:01 AM", 
+            "Submitter Designator": "BIGA", 
+            "Registration #": "109BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014060900005", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/10/2014 9:25:08 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "969BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014022459", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/28/2014 9:14:32 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "607AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014022860", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/3/2014 9:46:48 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "607AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2012101000001", 
+            "Submitter Type": "B", 
+            "Submission Date": "10/10/2012 11:55:20 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4YA2010F00134", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/19/2010 2:52:41 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "966BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "STZA2011F00151", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/24/2011 1:23:17 PM", 
+            "Submitter Designator": "STZA", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000220", 
+            "Submitter Type": "B", 
+            "Submission Date": "5/10/2016 10:17:56 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "217BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX1994", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "TUGR", 
+            "Registration #": "7241E"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4YA2010120200001", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/6/2010 8:02:59 AM", 
+            "Submitter Designator": "P4YA", 
+            "Registration #": "963BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA201403170001", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/17/2014 5:21:28 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "437CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000839", 
+            "Submitter Type": "E", 
+            "Submission Date": "10/12/2009 11:41:46 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "969BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010F00098", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/23/2010 2:45:46 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000776", 
+            "Submitter Type": "C", 
+            "Submission Date": "8/3/2010 6:58:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "495CS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000377", 
+            "Submitter Type": "C", 
+            "Submission Date": "10/3/2001 10:07:30 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "316ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010F00122", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/2/2010 3:04:35 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BIGA20150211001", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/24/2015 1:38:44 PM", 
+            "Submitter Designator": "BIGA", 
+            "Registration #": "107BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20030695", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/4/2003 9:01:50 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000205", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/4/2003 3:49:58 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "287MA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150629137", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/29/2015 10:59:05 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "603AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA110420009", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:03:21 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3695", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "EHAR", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20040209", 
+            "Submitter Type": "M", 
+            "Submission Date": "5/26/2004 4:33:27 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "00177"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20151117147", 
+            "Submitter Type": "E", 
+            "Submission Date": "11/20/2015 10:12:19 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150629138", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/29/2015 10:59:06 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "603AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20161004016", 
+            "Submitter Type": "E", 
+            "Submission Date": "10/4/2016 3:18:50 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "437CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000920SH019", 
+            "Submitter Type": "H", 
+            "Submission Date": "9/20/2000 1:40:17 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "203FN"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010504CW010", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/4/2001 1:08:14 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "687MA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400074", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 10:25:34 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400094", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 10:48:23 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400104", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 11:02:10 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400114", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 11:11:12 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400124", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 11:43:40 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400134", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 11:56:19 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400084", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 10:38:27 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400144", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 12:04:18 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400154", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 12:13:23 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400164", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 12:21:13 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150224109", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/24/2015 12:38:50 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "607AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013011500013", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/16/2013 12:52:05 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "605AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000729", 
+            "Submitter Type": "D", 
+            "Submission Date": "7/16/2010 11:38:26 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHA2001F00000", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/2/2001 3:16:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150115105", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/16/2015 1:01:05 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082086", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/20/2014 12:22:40 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082087", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/20/2014 12:22:40 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA2014020600001", 
+            "Submitter Type": "E", 
+            "Submission Date": "4/15/2014 4:27:29 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA201402060002", 
+            "Submitter Type": "E", 
+            "Submission Date": "4/15/2014 4:44:44 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082692", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/26/2014 9:16:29 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082693", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/26/2014 9:16:29 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082695", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/26/2014 9:16:29 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082696", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/26/2014 9:16:29 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2000ZZZX658", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "204PA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2000ZZZX659", 
+            "Submitter Type": "A", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "B16A", 
+            "Registration #": "203PA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082084", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/20/2014 12:22:40 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082085", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/20/2014 12:22:40 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20151004145", 
+            "Submitter Type": "E", 
+            "Submission Date": "10/8/2015 8:20:34 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHAA20100720", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/20/2010 7:27:17 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHAA20120731006", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/8/2012 2:16:04 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4YA2010121100001", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/15/2010 8:17:57 AM", 
+            "Submitter Designator": "P4YA", 
+            "Registration #": "1269J"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20024", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/21/2002 1:24:44 PM", 
+            "Submitter Designator": "STZA", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA080206007", 
+            "Submitter Type": "W", 
+            "Submission Date": "2/15/2008 1:40:05 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140801", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/1/2014 4:10:24 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20160828013", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/30/2016 10:22:21 AM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "437CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "PQ4M201512070002", 
+            "Submitter Type": "I", 
+            "Submission Date": "12/7/2015 8:05:07 AM", 
+            "Submitter Designator": "PQ4M", 
+            "Registration #": "471EB"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA990513010", 
+            "Submitter Type": "W", 
+            "Submission Date": "4/14/2000 1:41:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082689", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/26/2014 9:16:29 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082690", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/26/2014 9:16:29 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082691", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/26/2014 9:16:29 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082694", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/26/2014 9:16:29 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHA2001F00005", 
+            "Submitter Type": "E", 
+            "Submission Date": "11/8/2001 2:48:21 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "352CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHA2001F00006", 
+            "Submitter Type": "E", 
+            "Submission Date": "11/8/2001 3:02:16 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "352CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012F00064", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/14/2012 1:09:51 AM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150404133", 
+            "Submitter Type": "E", 
+            "Submission Date": "4/6/2015 10:57:45 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2010112910001", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/29/2010 12:29:17 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2010112910002", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/29/2010 12:50:36 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2010112910003", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/29/2010 1:00:03 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082797", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/27/2014 1:17:34 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014082798", 
+            "Submitter Type": "E", 
+            "Submission Date": "8/27/2014 1:17:34 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20140917100", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/17/2014 6:50:09 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20140917101", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/17/2014 6:50:09 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20140917102", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/17/2014 6:50:09 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150902142", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/4/2015 8:36:06 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013011800001", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/18/2013 12:35:58 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "607AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "SROM2010016", 
+            "Submitter Type": "C", 
+            "Submission Date": "11/22/2010 1:14:36 PM", 
+            "Submitter Designator": "SROM", 
+            "Registration #": "405CP"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013112725", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/2/2013 12:32:49 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX98", 
+            "Submitter Type": "A", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013011800003", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/18/2013 12:55:02 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "969BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121930", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:32 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121931", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:32 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121932", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:32 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA960826079", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121933", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:32 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121934", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:32 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121935", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:33 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121936", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:33 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121937", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:33 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121940", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:33 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121938", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:33 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121939", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:33 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013121941", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/19/2013 2:15:33 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013122642", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/26/2013 12:36:49 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "4399T"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4Y2008F00003", 
+            "Submitter Type": "E", 
+            "Submission Date": "11/3/2008 9:14:51 AM", 
+            "Submitter Designator": "P4YA", 
+            "Registration #": "962BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140116001", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/16/2014 3:19:12 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4YA0718201200001", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/20/2012 8:39:02 AM", 
+            "Submitter Designator": "P4YA", 
+            "Registration #": "2696S"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHAA20130211002", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/14/2013 7:03:13 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BIGA20161206001", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/8/2016 10:27:12 AM", 
+            "Submitter Designator": "BIGA", 
+            "Registration #": "107BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BIG2008F00000", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/18/2008 11:44:17 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "107BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "3RAA2014FA0000064", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/10/2014 6:09:26 AM", 
+            "Submitter Designator": "3RAA", 
+            "Registration #": "495CS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHA2008F00002", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/18/2008 11:13:12 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX6110", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "ST9R", 
+            "Registration #": "349TA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX6111", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "ST9R", 
+            "Registration #": "349TA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX6112", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "ST9R", 
+            "Registration #": "349TA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX6113", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "ST9R", 
+            "Registration #": "349TA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX6114", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "ST9R", 
+            "Registration #": "349TA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX6115", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "ST9R", 
+            "Registration #": "349TA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411338", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:45:08 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4YA2012091200001", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/14/2012 9:05:25 AM", 
+            "Submitter Designator": "P4YA", 
+            "Registration #": "962BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR110411338A", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:40:01 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4YA2012110300001", 
+            "Submitter Type": "E", 
+            "Submission Date": "11/9/2012 2:49:31 PM", 
+            "Submitter Designator": "P4YA", 
+            "Registration #": "2696S"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20151015146", 
+            "Submitter Type": "E", 
+            "Submission Date": "10/15/2015 1:33:54 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4YA2009050300001", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/4/2009 4:02:44 PM", 
+            "Submitter Designator": "P4YA", 
+            "Registration #": "961BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EIAA2010F00155", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/12/2010 5:10:36 PM", 
+            "Submitter Designator": "EIAA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "3PRA201109070001", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/8/2011 12:41:09 PM", 
+            "Submitter Designator": "3PRA", 
+            "Registration #": "967BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20150630001", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/30/2015 4:08:56 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001227SH017", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/27/2000 10:28:53 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "687MA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010604CW017", 
+            "Submitter Type": "E", 
+            "Submission Date": "6/4/2001 3:24:28 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "117BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX1172", 
+            "Submitter Type": "A", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2011040810010", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/8/2011 4:30:36 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR201104081012", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/8/2011 4:49:38 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110408", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/8/2011 4:56:23 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411333", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:13:44 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411334", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:17:48 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392C"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110408321", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/8/2011 5:00:59 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411335", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:22:02 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392C"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411337", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:35:18 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411342", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:59:36 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411343", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:03:38 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411344", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:13:49 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140121001", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/21/2014 5:15:30 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411656", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:09:15 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411341", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:54:39 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411347", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:22:44 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411349", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:25:52 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR201104112332", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:04:44 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411336", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:27:43 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411340", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:51:36 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411351", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:48:55 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411339", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 9:48:33 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411345", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:17:08 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411353", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:56:10 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411355", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 11:03:25 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "RRI2001F00000", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/11/2001 11:45:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7241E"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2014090599", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/5/2014 11:07:47 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "621AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHAA20100728", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/28/2010 5:41:34 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX521", 
+            "Submitter Type": "H", 
+            "Submission Date": "2/3/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2010112910004", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/29/2010 1:04:02 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2010112910005", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/29/2010 1:05:20 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "422CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3561", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004F00031", 
+            "Submitter Type": "A", 
+            "Submission Date": "1/7/2004 1:10:06 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "423CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "3RAA20140520001", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/28/2014 3:32:41 PM", 
+            "Submitter Designator": "3RAA", 
+            "Registration #": "467CS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20040235", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/4/2004 2:16:13 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411346", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:20:04 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411350", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:28:28 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411352", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 10:52:23 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411354", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 11:00:14 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411357", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 11:09:12 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA201309130001", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/13/2013 5:49:49 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR20110411356", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/11/2011 11:06:26 AM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "392CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140206001", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/6/2014 12:06:49 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140305001", 
+            "Submitter Type": "E", 
+            "Submission Date": "3/5/2014 1:29:29 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "8EKA20140205001", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/5/2014 3:56:10 PM", 
+            "Submitter Designator": "8EKA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400024", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 9:13:05 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400034", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 9:22:15 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400044", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 9:33:18 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400054", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 10:05:45 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013072400064", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/24/2013 10:15:42 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4495", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "204PA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHAA20130117001", 
+            "Submitter Type": "E", 
+            "Submission Date": "1/22/2013 7:24:04 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "502FS"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX812", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "AL5R", 
+            "Registration #": "424CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA961007014", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX726", 
+            "Submitter Type": "A", 
+            "Submission Date": "2/17/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "687MA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150430134", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/5/2015 9:52:15 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001017", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/25/2005 11:38:47 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "287MA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EHAA20120824007", 
+            "Submitter Type": "E", 
+            "Submission Date": "9/6/2012 12:03:58 PM", 
+            "Submitter Designator": "EHAA", 
+            "Registration #": "348CA"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "PDL2008F00000", 
+            "Submitter Type": "A", 
+            "Submission Date": "7/30/2008 12:25:08 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "1269J"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "KGBR2012070600001", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/6/2012 2:47:30 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "602AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013071900004", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/19/2013 9:06:17 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA2013071900014", 
+            "Submitter Type": "E", 
+            "Submission Date": "7/19/2013 9:19:44 AM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "606AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BHA02RS", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/28/2003 3:27:10 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "117BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4110", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4111", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4112", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4113", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4114", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4115", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4116", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4117", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4118", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4119", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4120", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4121", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BIGA20160531001", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/31/2016 7:19:14 PM", 
+            "Submitter Designator": "BIGA", 
+            "Registration #": "107BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20050615", 
+            "Submitter Type": "M", 
+            "Submission Date": "6/24/2005 3:22:05 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "00168"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4122", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4123", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4124", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4125", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4126", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "311ST"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "P4Y2008F00004", 
+            "Submitter Type": "E", 
+            "Submission Date": "12/22/2008 3:33:27 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "962BW"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "200700114", 
+            "Submitter Type": "B", 
+            "Submission Date": "1/30/2007 12:24:41 PM", 
+            "Submitter Designator": "KGBR", 
+            "Registration #": "515RL"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "39LA20150501135", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/6/2015 12:59:37 PM", 
+            "Submitter Designator": "39LA", 
+            "Registration #": "620AR"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BIGA20110114001", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/23/2011 10:57:40 AM", 
+            "Submitter Designator": "BIGA", 
+            "Registration #": "112BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "BIGA01/28/11", 
+            "Submitter Type": "E", 
+            "Submission Date": "2/3/2011 5:42:07 PM", 
+            "Submitter Designator": "BIGA", 
+            "Registration #": "117BH"
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000658", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/1/2000 10:43:29 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "CASA - CONSTRUCCIONES AERONAUTICAS S A", 
+            "value": "CASA"
+        }
+    }
+]
