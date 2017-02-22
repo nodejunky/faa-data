@@ -1,0 +1,30 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20020929", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/6/2002 9:16:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AEROVD - AEROVODOCHODY", 
+            "value": "AEROVD"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000423", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/23/2003 11:26:11 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "82674"
+        }, 
+        "manufacturer": {
+            "text": "AEROVD - AEROVODOCHODY", 
+            "value": "AEROVD"
+        }
+    }
+]

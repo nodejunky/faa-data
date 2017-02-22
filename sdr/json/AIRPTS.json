@@ -1,0 +1,114 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000759", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/28/2004 8:54:02 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7798V"
+        }, 
+        "manufacturer": {
+            "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
+            "value": "AIRPTS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0001203", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/21/2006 1:08:48 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7638V"
+        }, 
+        "manufacturer": {
+            "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
+            "value": "AIRPTS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000548", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/26/2011 10:58:41 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7662V"
+        }, 
+        "manufacturer": {
+            "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
+            "value": "AIRPTS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000547", 
+            "Submitter Type": "C", 
+            "Submission Date": "8/26/2011 10:46:48 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7662V"
+        }, 
+        "manufacturer": {
+            "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
+            "value": "AIRPTS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960437", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
+            "value": "AIRPTS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960179", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
+            "value": "AIRPTS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX185", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/20/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7798V"
+        }, 
+        "manufacturer": {
+            "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
+            "value": "AIRPTS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX186", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/20/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7798V"
+        }, 
+        "manufacturer": {
+            "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
+            "value": "AIRPTS"
+        }
+    }
+]

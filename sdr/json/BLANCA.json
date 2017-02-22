@@ -1,0 +1,968 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA151208017", 
+            "Submitter Type": "Z", 
+            "Submission Date": "4/22/2016 10:50:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000441", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/9/2013 7:51:56 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "50564"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "120507", 
+            "Submitter Type": "C", 
+            "Submission Date": "12/7/2007 10:15:49 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "413R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA090915003", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/23/2009 6:57:58 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010604CW016", 
+            "Submitter Type": "D", 
+            "Submission Date": "6/4/2001 3:14:18 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9505E"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA150923004", 
+            "Submitter Type": "Z", 
+            "Submission Date": "4/22/2016 10:49:45 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000678", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/31/2007 12:44:57 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8847V"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6300", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "286SV"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3129", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "14793"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4228", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4205B"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9601347", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9601348", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9601349", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX4513", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8223R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX4514", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8223R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX2879", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "IU2R", 
+            "Registration #": "93603"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000514", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/19/2001 11:18:24 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "39828"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA930910212", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/22/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000881", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/30/2006 6:13:21 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "711LA"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "OXZS2014022000092", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/20/2014 2:13:26 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2828C"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000352", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/2/2003 1:42:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "416MB"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000353", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/2/2003 1:48:26 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA970902023", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX1936", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4058B"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000238", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/20/2006 2:22:56 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "74212"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX2446", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9849B"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001599", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/19/2005 2:48:35 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "910EJ"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2014FA0000267", 
+            "Submitter Type": "C", 
+            "Submission Date": "4/25/2014 11:09:06 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "93568"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000831", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/13/2010 2:10:41 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "CGBMY"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX4595", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9550E"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010403CW003", 
+            "Submitter Type": "C", 
+            "Submission Date": "4/3/2001 9:19:31 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "74231"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX2410", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "179TW"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA030729008", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/18/2003 10:17:01 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX3602", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "LF1R", 
+            "Registration #": "4113B"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000413", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/22/2001 1:08:10 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8507R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "ASWF2014082800035", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/28/2014 8:22:21 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4893V"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000270", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/9/2005 3:49:27 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "28127"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3018", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "6302X"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000185", 
+            "Submitter Type": "C", 
+            "Submission Date": "8/9/2001 8:41:27 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "74285"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3073", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4038B"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX362", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9558E"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX2053", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "QKKR", 
+            "Registration #": "8838R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX2054", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "QKKR", 
+            "Registration #": "8838R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3898", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4855V"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000687", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/3/2007 8:41:31 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "14746"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX820", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "1285R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001101SH006", 
+            "Submitter Type": "D", 
+            "Submission Date": "11/1/2000 8:29:02 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "8223R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001101SH008", 
+            "Submitter Type": "D", 
+            "Submission Date": "11/1/2000 8:47:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9643E"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000404SH001", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/4/2000 7:48:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9606E"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000404SH002", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/4/2000 8:02:16 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9606E"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000412SH008", 
+            "Submitter Type": "G", 
+            "Submission Date": "4/12/2000 10:34:53 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "8843V"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4424", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "ZU4R", 
+            "Registration #": "93568"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX493", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/3/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9739E"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000145", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/3/2004 11:42:51 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "6601V"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2014FA0000451", 
+            "Submitter Type": "D", 
+            "Submission Date": "7/25/2014 5:47:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "8943"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000093", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/30/2007 12:40:20 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "14690"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000068", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/26/2007 7:34:20 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "14746"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3985", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "OMKR", 
+            "Registration #": "6564V"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3986", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "OMKR", 
+            "Registration #": "6667V"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA140925006", 
+            "Submitter Type": "Z", 
+            "Submission Date": "3/12/2015 10:00:20 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000936", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/3/2010 7:46:16 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "712J"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX4386", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8223R"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA141020007", 
+            "Submitter Type": "Z", 
+            "Submission Date": "3/12/2015 10:00:20 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1596", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4205B"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX5343", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "6667V"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000385", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/24/2016 7:42:21 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "666RS"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000655", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/7/2006 7:41:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "6561N"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000525", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/7/2008 9:09:40 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "222SN"
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA091019001", 
+            "Submitter Type": "W", 
+            "Submission Date": "12/1/2009 7:12:06 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BLANCA - BELLANCA AIRCRAFT CORP", 
+            "value": "BLANCA"
+        }
+    }
+]

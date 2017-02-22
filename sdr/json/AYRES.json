@@ -1,0 +1,1990 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010412CW004", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/12/2001 12:02:39 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8988Q"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960685", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA140423009", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/12/2015 10:00:01 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA930709211", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/8/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA011121001", 
+            "Submitter Type": "W", 
+            "Submission Date": "12/12/2001 9:30:42 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1698", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "XX4R", 
+            "Registration #": "984UA"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA070314022", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/7/2007 10:43:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000410", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/14/2008 7:03:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "3105E"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA090408009", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/13/2009 7:22:06 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970840", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1364", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/24/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4855X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA110627009", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/14/2015 11:04:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA950504022", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA071029003", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/21/2008 2:01:14 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000539", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/22/2011 10:34:25 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "1735S"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX1112", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "61285"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970447", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970459", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970466", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970467", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970468", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000540", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/24/2011 1:38:19 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "61220"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000022", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/15/2010 7:53:42 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4999X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA060425015", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/6/2006 10:43:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4956", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5521X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA070914004", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/24/2007 2:54:45 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX4546", 
+            "Submitter Type": "C", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8034V"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA930927509", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/22/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000713SH001", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/11/2000 9:35:01 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "82494"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX4580", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5654X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX4581", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "KOIG", 
+            "Registration #": "8972Q"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA020719004", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/7/2002 9:39:02 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980582", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA100903004", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/4/2011 11:00:22 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980615", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980616", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980617", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980641", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980643", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA990513005", 
+            "Submitter Type": "W", 
+            "Submission Date": "4/14/2000 1:41:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970598", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970605", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970607", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA060504005", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/2/2008 7:41:32 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3861", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "3106H"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000144", 
+            "Submitter Type": "C", 
+            "Submission Date": "2/6/2006 3:24:37 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980252", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1160", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "YDYR", 
+            "Registration #": "3100N"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1161", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "YDYR", 
+            "Registration #": "3093M"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1162", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "YDYR", 
+            "Registration #": "3093M"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000695", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/2/2010 1:24:34 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5671X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980295", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980296", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000776", 
+            "Submitter Type": "G", 
+            "Submission Date": "11/23/2012 11:47:08 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "3097K"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980888", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980889", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001526", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/15/2005 8:35:37 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "114RM"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU981192", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA070514022", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/7/2007 10:44:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000831SH021", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/31/2000 12:39:11 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4925X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960095", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3351", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "ILIR", 
+            "Registration #": "331U"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001091", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/3/2005 10:24:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4020Q"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3694", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "CP2R", 
+            "Registration #": "4015P"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA991104016", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000696", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/2/2010 1:29:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5671X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000698", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/2/2010 1:36:19 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5671X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000093", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/5/2010 10:20:11 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "8893Q"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA110803007", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:04:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000829", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/15/2003 12:41:41 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "3299A"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000143", 
+            "Submitter Type": "C", 
+            "Submission Date": "2/6/2006 3:21:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU971582", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000067", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/5/2009 2:06:34 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "660K"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000068", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/5/2009 2:33:34 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2281A"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA050725018", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/3/2005 1:03:44 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980436", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX5953", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4977C"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX2809", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5013X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX2609", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5627X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600657", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600658", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600660", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600661", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600662", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600667", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600668", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA020606007", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/13/2002 9:23:58 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960380", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000740", 
+            "Submitter Type": "G", 
+            "Submission Date": "11/10/2011 11:32:06 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "23034"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA071016004", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/24/2007 2:54:49 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1908", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "T4PR", 
+            "Registration #": "4913X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1909", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "T4PR", 
+            "Registration #": "4913X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "WIW2008F00000", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/14/2008 1:09:52 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "30591"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000340", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/23/2000 2:54:35 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU510001855", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/6/2006 2:52:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600897", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600898", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "EY2R9600899", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000404", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/11/2013 9:04:47 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "455JM"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA930225301", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/5/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA930225302", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/5/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA110516008", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/9/2011 1:28:44 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000015", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/10/2006 2:03:49 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4914X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001114", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/10/2005 10:53:58 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4121G"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000512", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/20/2005 9:04:38 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "6124Y"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA051006003", 
+            "Submitter Type": "W", 
+            "Submission Date": "11/1/2005 9:13:40 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4127", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8417V"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA090618012", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/3/2009 12:47:37 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA060717001", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/2/2006 2:32:06 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000811", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/9/2010 11:19:13 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "660KP"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA930430201", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/12/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA130430003", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:04:12 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970667", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20031242", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/5/2004 10:16:13 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000699", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/2/2010 1:40:17 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5671X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970695", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000697", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/2/2010 1:33:07 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5671X"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000047", 
+            "Submitter Type": "F", 
+            "Submission Date": "2/2/2009 8:39:59 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "5009J"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3093", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "898LF"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA060731018", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/2/2006 2:32:08 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000975", 
+            "Submitter Type": "B", 
+            "Submission Date": "8/20/2002 11:19:12 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "40261"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA930708302", 
+            "Submitter Type": "W", 
+            "Submission Date": "4/24/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1610", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2256L"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX1624", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "FE6R", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA931108012", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/1/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA150728004", 
+            "Submitter Type": "Z", 
+            "Submission Date": "4/22/2016 10:49:45 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA151208009", 
+            "Submitter Type": "Z", 
+            "Submission Date": "4/22/2016 10:50:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0001197", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/21/2006 7:07:27 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "32LF"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "FAA010808001", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/8/2008 1:37:16 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2281A"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000939", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/1/2005 10:07:31 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4009J"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0001206", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/22/2006 6:32:36 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "8960Q"
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970738", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA120213009", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:03:37 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA060731009", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/2/2006 2:32:07 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA990614024", 
+            "Submitter Type": "W", 
+            "Submission Date": "7/5/2000 9:43:23 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA000404025", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/23/2000 2:54:17 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA110720003", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:04:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA120903006", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:03:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA130225001", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:04:12 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970433", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980747", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990019", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AYRES - AYRES CORP", 
+            "value": "AYRES"
+        }
+    }
+]

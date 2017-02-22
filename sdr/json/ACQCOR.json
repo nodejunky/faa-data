@@ -1,0 +1,44 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "200701", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/4/2007 2:06:06 PM", 
+            "Submitter Designator": "LM1R", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "ACQCOR - AIRCRAFT ACQUISITION CORP", 
+            "value": "ACQCOR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2000ZZZX728", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "92K"
+        }, 
+        "manufacturer": {
+            "text": "ACQCOR - AIRCRAFT ACQUISITION CORP", 
+            "value": "ACQCOR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "ASAA0110068", 
+            "Submitter Type": "A", 
+            "Submission Date": "4/3/2001 8:19:11 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "742AS"
+        }, 
+        "manufacturer": {
+            "text": "ACQCOR - AIRCRAFT ACQUISITION CORP", 
+            "value": "ACQCOR"
+        }
+    }
+]

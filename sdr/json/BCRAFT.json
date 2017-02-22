@@ -1,0 +1,44 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "0065686", 
+            "Submitter Type": "B", 
+            "Submission Date": "8/8/2003 2:56:50 PM", 
+            "Submitter Designator": "EY2R", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BCRAFT - BEECRAFT ASSOC. INC.", 
+            "value": "BCRAFT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "00656686", 
+            "Submitter Type": "B", 
+            "Submission Date": "8/8/2003 2:56:50 PM", 
+            "Submitter Designator": "EY2R", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BCRAFT - BEECRAFT ASSOC. INC.", 
+            "value": "BCRAFT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "65686", 
+            "Submitter Type": "B", 
+            "Submission Date": "6/23/2003 4:21:52 PM", 
+            "Submitter Designator": "EY2R", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "BCRAFT - BEECRAFT ASSOC. INC.", 
+            "value": "BCRAFT"
+        }
+    }
+]

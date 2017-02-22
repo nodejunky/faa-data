@@ -1,0 +1,478 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000087", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/11/2005 9:39:54 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "36HY"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000578", 
+            "Submitter Type": "D", 
+            "Submission Date": "5/7/2002 10:25:04 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "37HY"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000579", 
+            "Submitter Type": "C", 
+            "Submission Date": "5/7/2002 10:30:37 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "37HY"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0001029", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/1/2003 8:00:06 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "2073X"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA070917013", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/21/2008 2:01:11 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000370", 
+            "Submitter Type": "B", 
+            "Submission Date": "10/2/2001 8:11:09 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "711HY"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000229", 
+            "Submitter Type": "C", 
+            "Submission Date": "2/25/2004 11:32:21 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "79D"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000252", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/3/2004 10:12:47 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "354C"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000919SH023", 
+            "Submitter Type": "B", 
+            "Submission Date": "9/19/2000 12:41:54 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "58TD"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000919SH024", 
+            "Submitter Type": "B", 
+            "Submission Date": "9/19/2000 12:46:03 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "475MA"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000955", 
+            "Submitter Type": "B", 
+            "Submission Date": "8/8/2002 12:58:53 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "96186"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000660", 
+            "Submitter Type": "C", 
+            "Submission Date": "5/17/2002 11:26:45 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "478DM"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000530", 
+            "Submitter Type": "C", 
+            "Submission Date": "11/6/2001 9:05:15 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000694", 
+            "Submitter Type": "B", 
+            "Submission Date": "10/12/2012 8:09:17 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "365C"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000122", 
+            "Submitter Type": "P", 
+            "Submission Date": "1/7/2004 6:37:35 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "40HU"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000033", 
+            "Submitter Type": "P", 
+            "Submission Date": "1/7/2004 6:39:52 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "40HU"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000803", 
+            "Submitter Type": "C", 
+            "Submission Date": "8/6/2003 5:20:24 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "190BA"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2014FA0000181", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/25/2014 5:58:36 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "337DP"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001294", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/13/2002 3:55:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "84HY"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0001128", 
+            "Submitter Type": "P", 
+            "Submission Date": "11/4/2003 1:01:14 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "37HY"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000156", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/1/2016 7:25:51 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "233F"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010510AP007", 
+            "Submitter Type": "G", 
+            "Submission Date": "4/26/2001 12:10:30 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "484C"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA070921004", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/21/2008 2:01:11 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000058", 
+            "Submitter Type": "D", 
+            "Submission Date": "7/2/2001 9:07:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "484C"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000863", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/3/2007 10:15:28 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "304C"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000073", 
+            "Submitter Type": "D", 
+            "Submission Date": "7/5/2001 8:45:54 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "27HU"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000194", 
+            "Submitter Type": "C", 
+            "Submission Date": "2/12/2004 9:38:39 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "478DM"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA140730018", 
+            "Submitter Type": "Z", 
+            "Submission Date": "3/12/2015 10:00:20 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001013", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/25/2005 11:13:33 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "CGZRO"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000063", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/20/2006 10:53:55 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "8XC"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0001262", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/22/2003 8:06:13 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "49349"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA120913008", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:03:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001344", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/26/2002 2:25:50 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "367SA"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001345", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/26/2002 2:30:01 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "367SA"
+        }, 
+        "manufacturer": {
+            "text": "AVIAT - AVIATINC", 
+            "value": "AVIAT"
+        }
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX5422", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "1132H"
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA061018006", 
+            "Submitter Type": "W", 
+            "Submission Date": "12/4/2006 1:46:37 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000383", 
+            "Submitter Type": "D", 
+            "Submission Date": "5/7/2009 11:49:25 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "83822"
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000423", 
+            "Submitter Type": "C", 
+            "Submission Date": "6/27/2011 1:11:13 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "1354H"
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA020507019", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/31/2002 12:21:22 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2014FA0000428", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/14/2014 8:06:26 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "83119"
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000187", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/22/2016 1:55:42 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "47185"
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA141001011", 
+            "Submitter Type": "Z", 
+            "Submission Date": "3/12/2015 10:00:20 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000762", 
+            "Submitter Type": "D", 
+            "Submission Date": "6/14/2002 9:12:23 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "86189"
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990430033", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "ARONCA - AERONCA MFG CORP", 
+            "value": "ARONCA"
+        }
+    }
+]

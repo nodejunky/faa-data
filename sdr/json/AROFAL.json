@@ -1,0 +1,58 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000622SH012", 
+            "Submitter Type": "B", 
+            "Submission Date": "6/22/2000 9:43:40 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "38FA"
+        }, 
+        "manufacturer": {
+            "text": "AROFAL - ARROW FALCON PORTERVILLE CA 93257", 
+            "value": "AROFAL"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA040311006", 
+            "Submitter Type": "W", 
+            "Submission Date": "4/1/2004 7:51:43 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AROFAL - ARROW FALCON PORTERVILLE CA 93257", 
+            "value": "AROFAL"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CYX2002F00000", 
+            "Submitter Type": "A", 
+            "Submission Date": "9/10/2002 8:47:55 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9263Y"
+        }, 
+        "manufacturer": {
+            "text": "AROFAL - ARROW FALCON PORTERVILLE CA 93257", 
+            "value": "AROFAL"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CYX2002F00001", 
+            "Submitter Type": "A", 
+            "Submission Date": "9/10/2002 8:53:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "82791"
+        }, 
+        "manufacturer": {
+            "text": "AROFAL - ARROW FALCON PORTERVILLE CA 93257", 
+            "value": "AROFAL"
+        }
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990057", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20020475", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/13/2002 8:36:22 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU001323", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/20/2001 10:47:22 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU001324", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/20/2001 10:47:22 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990737", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990012", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990815", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU981274", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20021166", 
+            "Submitter Type": "W", 
+            "Submission Date": "11/6/2002 12:09:42 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX1351", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "216RN"
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001212", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/24/2002 1:39:58 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "216RN"
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA991210019", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/19/2001 9:21:51 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990017", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AVIONS - PIERRE ROBIN", 
+            "value": "AVIONS"
+        }
+    }
+]

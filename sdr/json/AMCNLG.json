@@ -1,0 +1,30 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000891", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/11/2007 6:40:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "65LC"
+        }, 
+        "manufacturer": {
+            "text": "AMCNLG - AMERICAN LEGEND AIRCRAFT COMPANY", 
+            "value": "AMCNLG"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000169", 
+            "Submitter Type": "C", 
+            "Submission Date": "4/30/2015 12:21:15 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7732Z"
+        }, 
+        "manufacturer": {
+            "text": "AMCNLG - AMERICAN LEGEND AIRCRAFT COMPANY", 
+            "value": "AMCNLG"
+        }
+    }
+]

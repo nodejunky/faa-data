@@ -1,0 +1,6484 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001113", 
+            "Submitter Type": "B", 
+            "Submission Date": "9/26/2002 1:59:12 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "302JS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980859", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001386", 
+            "Submitter Type": "P", 
+            "Submission Date": "12/15/2002 9:05:05 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001041", 
+            "Submitter Type": "D", 
+            "Submission Date": "7/26/2005 9:57:02 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "25KC"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX502", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "961CP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000140", 
+            "Submitter Type": "B", 
+            "Submission Date": "1/30/2004 8:41:56 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "227MJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000607SH004", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/7/2000 12:33:03 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "73BP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1120", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/10/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "51S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000139", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/1/2013 7:10:30 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "39796"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000496", 
+            "Submitter Type": "B", 
+            "Submission Date": "7/24/2008 6:53:30 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "362MC"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010417AP003", 
+            "Submitter Type": "G", 
+            "Submission Date": "4/11/2001 8:50:46 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "5439N"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000829SH002", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/29/2000 7:36:21 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "112KG"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1154", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/20/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "78WB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1155", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/20/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "113JY"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000636", 
+            "Submitter Type": "P", 
+            "Submission Date": "12/8/2015 9:41:43 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4385C"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX125", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "61810"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000805", 
+            "Submitter Type": "P", 
+            "Submission Date": "9/29/2009 4:37:21 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "78MU"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000058", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/10/2015 3:46:14 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "44EV"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000480", 
+            "Submitter Type": "C", 
+            "Submission Date": "7/22/2011 1:22:17 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "12911"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000461", 
+            "Submitter Type": "G", 
+            "Submission Date": "4/10/2002 10:02:15 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "520VF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000316", 
+            "Submitter Type": "P", 
+            "Submission Date": "6/4/2013 4:06:44 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "357V"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970952", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001047", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/26/2005 11:50:05 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "316R"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3193", 
+            "Submitter Type": "C", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "85TA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX2709", 
+            "Submitter Type": "C", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "988BB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX1095", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "872RM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1686", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "105WB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1697", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "247RJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000551", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/8/2012 12:41:39 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "71TC"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX2092", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "66SK"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3235", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "18252"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000094", 
+            "Submitter Type": "G", 
+            "Submission Date": "2/14/2005 9:20:05 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "899JP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX621", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9213A"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000343", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/17/2006 11:11:40 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "79HR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000054", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/28/2011 12:30:10 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "705CM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX1405", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "76SW"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1007", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "345RM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3994", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "60BP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX5152", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "803DR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990723", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970456", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3680", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2099J"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3870", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "248F"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000440", 
+            "Submitter Type": "C", 
+            "Submission Date": "7/6/2011 9:54:42 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "562SF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX5172", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "44JR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA120420001", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:03:48 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6299", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "164Q"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000041", 
+            "Submitter Type": "W", 
+            "Submission Date": "4/14/2000 2:01:52 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4934", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "3LV"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX4571", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9KF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000042", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/15/2010 12:39:20 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "831J"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000158", 
+            "Submitter Type": "C", 
+            "Submission Date": "4/6/2016 7:25:15 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "107SD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960795", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001051", 
+            "Submitter Type": "D", 
+            "Submission Date": "7/27/2005 8:38:23 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "6YE"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960349", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000334", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/3/2004 5:09:24 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "96XV"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960375", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000531", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/11/2010 10:46:55 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9696C"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000518SH010", 
+            "Submitter Type": "D", 
+            "Submission Date": "5/18/2000 9:15:59 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "8205H"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000766", 
+            "Submitter Type": "C", 
+            "Submission Date": "11/19/2008 7:38:38 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "320LA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000756", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/18/2013 3:58:56 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4358Z"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX64", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "912BS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX65", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "912BS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3780", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "90869"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "TZM2003F00000", 
+            "Submitter Type": "E", 
+            "Submission Date": "5/9/2003 12:50:33 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "301PJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980502", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA071205003", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/21/2008 2:01:22 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000377", 
+            "Submitter Type": "G", 
+            "Submission Date": "4/18/2006 11:42:13 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "701BX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "ERAA077281", 
+            "Submitter Type": "H", 
+            "Submission Date": "12/3/2001 9:17:48 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "170EH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2014FA0000469", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/7/2014 3:09:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000628", 
+            "Submitter Type": "D", 
+            "Submission Date": "5/13/2002 2:44:26 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "21901"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA121205007", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:04:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3242", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "596WC"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3243", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "48HP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000693", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/1/2000 10:43:32 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX4843", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "477RM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000416", 
+            "Submitter Type": "C", 
+            "Submission Date": "5/14/2007 9:05:09 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "899P"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000720SH032", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/20/2000 1:07:55 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2H"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4747", 
+            "Submitter Type": "C", 
+            "Submission Date": "9/19/1996 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "18FR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000391", 
+            "Submitter Type": "G", 
+            "Submission Date": "4/19/2010 11:51:56 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "201K"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000890", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/25/2010 10:36:32 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "50BU"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX2647", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "42AR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA970117007", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX4504", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "93LR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX1", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "42GP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000386", 
+            "Submitter Type": "D", 
+            "Submission Date": "6/20/2011 9:26:12 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "925SS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000374", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/2/2001 2:26:37 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "88PV"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU981634", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000235", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 10:45:06 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000237", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:14:57 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000238", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:17:49 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000045", 
+            "Submitter Type": "S", 
+            "Submission Date": "2/1/2016 11:55:11 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "5625Y"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000236", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 11:02:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000239", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:22:12 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000240", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:27:40 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6386", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "25WL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX1252", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "444WH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980613", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "110DJ0507", 
+            "Submitter Type": "C", 
+            "Submission Date": "5/15/2007 12:56:17 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "110DJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000345", 
+            "Submitter Type": "C", 
+            "Submission Date": "9/28/2001 8:27:17 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "350N"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000241", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:30:22 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000243", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:38:16 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000244", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:42:14 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000242", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:35:01 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000106", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/31/2006 12:03:00 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "11NS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000245", 
+            "Submitter Type": "B", 
+            "Submission Date": "2/27/2004 12:45:39 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "622AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970551", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000517", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/18/2013 7:31:53 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7RP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3249", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "444WH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000910", 
+            "Submitter Type": "B", 
+            "Submission Date": "8/1/2002 2:09:27 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "670"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980688", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000095", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/10/2001 11:13:10 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "225S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA050329001", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/2/2005 8:30:29 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1084", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "120VT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA050329011", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/2/2005 8:30:29 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000573", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/3/2001 9:39:13 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "94RS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000810", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/11/2002 2:01:17 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "6DD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970640", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000500", 
+            "Submitter Type": "P", 
+            "Submission Date": "10/13/2016 11:51:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "57TJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA090507006", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/13/2009 7:22:10 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000260", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/26/2011 8:09:30 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "289R"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4643", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "86D"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA080805001", 
+            "Submitter Type": "W", 
+            "Submission Date": "11/3/2008 8:48:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000840", 
+            "Submitter Type": "H", 
+            "Submission Date": "8/19/2010 12:45:05 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "VHYFM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980891", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980892", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980894", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980895", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980896", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980898", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000539", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/24/2001 10:34:10 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3949", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4215X"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA100804019", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/15/2011 7:45:14 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3953", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9DY"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX5894", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "91323"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA991210005", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/19/2001 9:21:41 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000909", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/18/2006 9:42:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "56JH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX3490", 
+            "Submitter Type": "C", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9224T"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000828SH026", 
+            "Submitter Type": "B", 
+            "Submission Date": "8/28/2000 11:27:35 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "26PB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2014FA0000630", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/24/2014 1:58:43 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "84RM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA090812009", 
+            "Submitter Type": "H", 
+            "Submission Date": "10/23/2009 6:57:52 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000831SH004", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/31/2000 9:59:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "525PP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000623", 
+            "Submitter Type": "C", 
+            "Submission Date": "12/5/2001 9:32:36 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "316R"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA021112009", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/6/2003 2:46:43 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000816", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/8/2009 7:25:46 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "2084D"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX5472", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2831W"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU510002168", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/6/2006 2:53:16 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000622SH013", 
+            "Submitter Type": "H", 
+            "Submission Date": "6/22/2000 9:51:01 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "3798X"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000939", 
+            "Submitter Type": "P", 
+            "Submission Date": "10/28/2009 8:33:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "789DF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000940", 
+            "Submitter Type": "P", 
+            "Submission Date": "10/28/2009 8:43:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "789DF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000481", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/22/2011 1:49:05 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "40CZ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX235", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "248F"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX236", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "248F"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000940", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/3/2010 10:26:59 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "31939"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000943", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/29/2009 10:19:44 AM", 
+            "Submitter Designator": "MV1R", 
+            "Registration #": "359JM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20020930", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/6/2002 9:16:04 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20020931", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/6/2002 9:16:04 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000175", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/24/2003 8:26:14 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "751MB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001139", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/7/2002 8:43:25 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "99DF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20020450", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/13/2002 8:36:20 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20020451", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/13/2002 8:36:20 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000734", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/22/2004 6:34:19 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "103LL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000230", 
+            "Submitter Type": "G", 
+            "Submission Date": "4/7/2011 1:03:09 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "602RW"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3681", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "104S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4689", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "118DM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX2943", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "950AW"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001332", 
+            "Submitter Type": "C", 
+            "Submission Date": "9/27/2005 11:44:52 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "619SJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "MDR041607", 
+            "Submitter Type": "C", 
+            "Submission Date": "4/23/2007 3:43:15 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "110DJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000042", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/15/2002 9:46:42 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "324DZ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000812", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/7/2005 9:24:39 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "1169G"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX289", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "285BB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3980", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "18FL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3981", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "22955"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1487", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9244B"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2017FA0000009", 
+            "Submitter Type": "P", 
+            "Submission Date": "1/11/2017 8:29:50 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "105WZ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001597", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/16/2005 1:04:06 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "20EA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA940804201", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/18/1997 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA151215017", 
+            "Submitter Type": "Z", 
+            "Submission Date": "4/22/2016 10:50:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3871", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "109BX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX1010", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "29TM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU971491", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4048", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "DJS041707", 
+            "Submitter Type": "C", 
+            "Submission Date": "4/23/2007 3:54:43 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "110DJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000331", 
+            "Submitter Type": "D", 
+            "Submission Date": "5/18/2012 2:26:07 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "79DJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX2038", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000549", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/31/2016 2:15:37 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "614JS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005F00098", 
+            "Submitter Type": "B", 
+            "Submission Date": "9/14/2005 7:09:12 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "650"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX253", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "992PE"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX263", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "70337"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010222CW006", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/22/2001 9:50:23 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "3891P"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU510001680", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/6/2006 2:52:28 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1108", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "56GJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX1053", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7989"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2014FA0000435", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/17/2014 3:46:15 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "6828D"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX991", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "94FA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000476", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/2/2015 2:15:38 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "527JT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX3567", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "130NM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA120104011", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/14/2015 11:03:37 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20010684", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/7/2001 8:44:08 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4389", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "637KM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4400", 
+            "Submitter Type": "F", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "500ZZ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA090407005", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/13/2009 7:22:05 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000366", 
+            "Submitter Type": "Z", 
+            "Submission Date": "4/8/2003 8:27:45 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3934", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "AW4R", 
+            "Registration #": "880RS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3935", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "AW4R", 
+            "Registration #": "880RS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000401", 
+            "Submitter Type": "G", 
+            "Submission Date": "5/13/2004 11:24:36 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "626EA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000600", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/14/2004 8:55:12 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7022X"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX5135", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "231YE"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX5137", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "679CM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX5138", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "679CM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX2939", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "274PS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000801", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/7/2012 11:37:22 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4434P"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3314", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "57JP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000314", 
+            "Submitter Type": "G", 
+            "Submission Date": "5/16/2011 11:47:27 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "415EC"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980373", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3406", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7182Z"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20021098", 
+            "Submitter Type": "W", 
+            "Submission Date": "11/6/2002 12:09:19 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000802", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/7/2012 11:50:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "3XG"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000352", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/5/2012 4:31:47 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "40941"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AMTR02022007", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/7/2007 1:33:12 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "41RH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX5980", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "93FS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000768", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/5/2007 7:06:02 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "31711"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000784", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/13/2007 11:45:08 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "12HE"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000410", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/19/2001 12:19:56 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "93RF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX337", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "245DF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX343", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "FC6R", 
+            "Registration #": "32618"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000386", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/16/2010 11:42:35 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "68RS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960248", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960250", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000327", 
+            "Submitter Type": "D", 
+            "Submission Date": "5/23/2011 6:54:49 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "157GS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000407", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/18/2001 3:21:59 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "47065"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000408", 
+            "Submitter Type": "C", 
+            "Submission Date": "10/19/2001 8:44:49 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "316"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000269", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/15/2015 9:10:35 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "697MF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000293", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/29/2015 3:20:07 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "800TR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2000ZZZX660", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "R2JR", 
+            "Registration #": "193SC"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980098", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX2470", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "560GR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000607", 
+            "Submitter Type": "W", 
+            "Submission Date": "8/4/2000 9:14:27 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000986", 
+            "Submitter Type": "H", 
+            "Submission Date": "11/20/2009 2:17:38 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "96EV"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0001132", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/25/2010 8:50:55 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "123TA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX1916", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "247RJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000387", 
+            "Submitter Type": "C", 
+            "Submission Date": "6/20/2011 11:39:11 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "104D"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000831SH024", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/31/2000 1:08:01 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "470RV"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000722", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/12/2010 11:56:30 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "11WC"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX4247", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8251B"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX4249", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "102KM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000807", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/10/2012 10:55:28 AM", 
+            "Submitter Designator": "MV1R", 
+            "Registration #": "628VZ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000974", 
+            "Submitter Type": "D", 
+            "Submission Date": "11/20/2009 9:20:27 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "119GB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000873", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/12/2004 12:21:54 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2079S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX830", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "27PM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX836", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "36AH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000798", 
+            "Submitter Type": "B", 
+            "Submission Date": "9/14/2007 7:57:21 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "369CZ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990909", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2014FA0000605", 
+            "Submitter Type": "S", 
+            "Submission Date": "10/16/2014 10:57:50 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "127YT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001257", 
+            "Submitter Type": "G", 
+            "Submission Date": "11/6/2002 2:25:44 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "41MF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000968", 
+            "Submitter Type": "D", 
+            "Submission Date": "11/20/2009 7:50:54 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "22DN"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3844", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7475Q"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000295", 
+            "Submitter Type": "C", 
+            "Submission Date": "9/17/2001 12:57:41 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "426RT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000456", 
+            "Submitter Type": "C", 
+            "Submission Date": "6/3/2009 6:29:52 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "200SX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000544", 
+            "Submitter Type": "G", 
+            "Submission Date": "5/26/2006 3:27:04 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "157VM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX723", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "92VH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20011024", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/15/2001 9:16:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960868", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960873", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960874", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000113", 
+            "Submitter Type": "G", 
+            "Submission Date": "2/5/2007 4:02:36 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "113JD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX3665", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "107JD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20021072", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/16/2002 8:49:56 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20021073", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/16/2002 8:49:56 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA120829004", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:03:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA121211005", 
+            "Submitter Type": "Z", 
+            "Submission Date": "9/14/2015 11:04:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA050223009", 
+            "Submitter Type": "W", 
+            "Submission Date": "4/1/2005 8:36:13 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA061006014", 
+            "Submitter Type": "W", 
+            "Submission Date": "12/4/2006 1:46:36 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000377", 
+            "Submitter Type": "G", 
+            "Submission Date": "5/10/2004 11:22:15 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "82LS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000682", 
+            "Submitter Type": "G", 
+            "Submission Date": "5/11/2005 11:01:43 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "215LF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX4961", 
+            "Submitter Type": "C", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "61DM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA061018007", 
+            "Submitter Type": "W", 
+            "Submission Date": "12/4/2006 1:46:37 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3469", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "FAA2016FA0000602", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/7/2016 10:30:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "448EM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX2345", 
+            "Submitter Type": "C", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9224T"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20010420CW008", 
+            "Submitter Type": "H", 
+            "Submission Date": "4/20/2001 10:18:40 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "5439N"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000260", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/1/2007 11:59:23 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "880BW"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "ERAA097501", 
+            "Submitter Type": "E", 
+            "Submission Date": "10/4/2004 9:16:15 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "164EH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4088", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "85ES"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000566", 
+            "Submitter Type": "C", 
+            "Submission Date": "9/2/2011 10:28:26 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "825WH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX3678", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "795DB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000839", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/22/2002 2:10:00 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "753KD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970217", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000828SH036", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/28/2000 3:18:27 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "62199"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000705", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/27/2011 3:47:14 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "600YT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000156", 
+            "Submitter Type": "C", 
+            "Submission Date": "2/17/2003 4:41:33 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "468JL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6687", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4701"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970333", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000457", 
+            "Submitter Type": "C", 
+            "Submission Date": "6/3/2009 6:42:37 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "200SX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000462", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/23/2015 2:58:43 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "1750Z"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990982", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990983", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000878", 
+            "Submitter Type": "C", 
+            "Submission Date": "10/10/2004 4:43:46 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "701TD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX5135", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "540FT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX4646", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "180VL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000811", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/11/2012 9:48:16 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000889", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/7/2006 1:04:28 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "999GL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000376", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/17/2016 12:56:15 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "788RH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU991075", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU991082", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20010948", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/15/2001 9:16:51 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000330", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/15/2016 3:17:23 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "147DE"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX10", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "239PT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0001253", 
+            "Submitter Type": "P", 
+            "Submission Date": "12/17/2010 4:50:29 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7965A"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000829", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/23/2006 7:04:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "400UK"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX2472", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "76HR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001270", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/7/2005 1:41:38 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7411S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX58", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "999TD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001269", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/7/2005 1:30:15 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7411S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000460", 
+            "Submitter Type": "P", 
+            "Submission Date": "5/12/2010 3:20:24 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "123MX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000197", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/24/2011 10:48:28 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA100415003", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/4/2011 11:00:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3923", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2FOR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3457", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "190TT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "ASWFSDO15OKC", 
+            "Submitter Type": "C", 
+            "Submission Date": "2/22/2006 5:02:34 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "373R"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX898", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000412", 
+            "Submitter Type": "P", 
+            "Submission Date": "7/17/2013 1:48:49 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "619SJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA030615001", 
+            "Submitter Type": "W", 
+            "Submission Date": "9/4/2003 9:04:41 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1432", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "612W"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6159", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "53RM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX5243", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4362D"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU510001912", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/6/2006 2:52:52 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000106", 
+            "Submitter Type": "G", 
+            "Submission Date": "2/6/2007 7:11:40 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "750TL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000811SH021", 
+            "Submitter Type": "G", 
+            "Submission Date": "8/11/2000 12:20:44 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "67MW"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0001239", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/10/2010 8:40:28 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "921SS"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000280", 
+            "Submitter Type": "B", 
+            "Submission Date": "6/8/2016 12:42:04 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "3004"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA070530007", 
+            "Submitter Type": "W", 
+            "Submission Date": "11/3/2008 8:47:45 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX1129", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "63SB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3939", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "62790"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000718", 
+            "Submitter Type": "P", 
+            "Submission Date": "10/31/2011 9:12:08 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "43280"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960930", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU960931", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU510001765", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/6/2006 2:52:32 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000272", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/29/2011 12:58:02 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "84PL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970683", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0001189", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/12/2006 11:13:47 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "216LF"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001017SH037", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/17/2000 1:49:07 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "86523"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000273", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/29/2011 1:04:16 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "84PL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970729", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX1530", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "548CM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX817", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "132RK"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX2718", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5455K"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20030891", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/15/2003 10:38:46 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20031142", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/5/2004 10:16:08 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX5105", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7234Y"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2009FA0000423", 
+            "Submitter Type": "G", 
+            "Submission Date": "5/18/2009 9:41:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "86YP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000499", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/14/2005 2:34:09 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "32CR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX761", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "248F"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX762", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "248F"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX763", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "249F"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX764", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "249F"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX768", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "51870"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20031200", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/5/2004 10:16:11 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000622", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/16/2003 10:35:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "307SH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX4310", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "701ZA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20011095", 
+            "Submitter Type": "W", 
+            "Submission Date": "12/4/2001 1:09:29 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970319", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU970320", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX2510", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "76GD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000604", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/16/2008 10:40:56 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "451BB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000294", 
+            "Submitter Type": "D", 
+            "Submission Date": "6/16/2016 11:22:47 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "512SG"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000663", 
+            "Submitter Type": "C", 
+            "Submission Date": "8/24/2004 10:49:07 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "219GK"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX1721", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20011134", 
+            "Submitter Type": "W", 
+            "Submission Date": "12/4/2001 1:09:30 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20031214", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/5/2004 10:16:12 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990501", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000286", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/9/2006 8:06:02 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "415KP"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990536", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001484", 
+            "Submitter Type": "G", 
+            "Submission Date": "11/3/2005 1:12:46 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "722W"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001227SH030", 
+            "Submitter Type": "B", 
+            "Submission Date": "12/27/2000 2:47:56 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "6162A"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001227SH031", 
+            "Submitter Type": "G", 
+            "Submission Date": "12/27/2000 3:01:11 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "612DC"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001227SH032", 
+            "Submitter Type": "H", 
+            "Submission Date": "12/27/2000 3:09:12 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "521S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000451", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/15/2015 10:01:59 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "97W"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0001082", 
+            "Submitter Type": "B", 
+            "Submission Date": "10/6/2010 9:40:14 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "959RT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0001271", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/30/2010 10:20:17 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "211YY"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990582", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000630", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/14/2012 11:28:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "18TN"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000515", 
+            "Submitter Type": "C", 
+            "Submission Date": "6/24/2004 8:03:16 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7229N"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "DJS110DJ", 
+            "Submitter Type": "C", 
+            "Submission Date": "4/23/2007 4:08:11 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "110DJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000330SH001", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/30/2000 8:41:45 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "423GB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000665", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/26/2003 9:36:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000517", 
+            "Submitter Type": "C", 
+            "Submission Date": "6/24/2004 11:27:16 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "27001"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000518", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/24/2004 11:37:09 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "25BM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000891", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/8/2004 4:03:52 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "49DW"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000931", 
+            "Submitter Type": "H", 
+            "Submission Date": "12/21/2004 12:47:02 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "601RT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000724SH015", 
+            "Submitter Type": "H", 
+            "Submission Date": "7/24/2000 9:53:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "912EA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000598", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/21/2013 10:42:21 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "24145"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004F00149", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/9/2004 3:09:46 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "787SB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX4804", 
+            "Submitter Type": "F", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "647AA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX5529", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "83JH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000752", 
+            "Submitter Type": "C", 
+            "Submission Date": "8/9/2006 8:08:12 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "2542T"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000710SH006", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/10/2000 9:41:34 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4293S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20040206", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/4/2004 2:16:11 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000015", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/10/2010 10:39:22 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "128CE"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA960222027", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX2269", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX3177", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "159MK"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000762", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/10/2006 8:40:33 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "818SH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX2284", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "38JK"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0001052", 
+            "Submitter Type": "D", 
+            "Submission Date": "11/30/2007 2:18:17 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "617EV"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000710", 
+            "Submitter Type": "B", 
+            "Submission Date": "8/17/2007 4:38:18 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "369CZ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA931124008", 
+            "Submitter Type": "W", 
+            "Submission Date": "5/1/1998 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000826", 
+            "Submitter Type": "C", 
+            "Submission Date": "8/13/2010 7:52:35 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "914BB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3563", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "414R"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000041", 
+            "Submitter Type": "G", 
+            "Submission Date": "1/22/2013 6:22:50 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "501RW"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000626SH024", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/26/2000 11:53:26 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "62199"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2016FA0000626", 
+            "Submitter Type": "P", 
+            "Submission Date": "12/11/2016 6:57:16 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "763J"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000486", 
+            "Submitter Type": "W", 
+            "Submission Date": "7/4/2000 1:28:25 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000292", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/23/2000 2:54:27 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX661", 
+            "Submitter Type": "G", 
+            "Submission Date": "2/10/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "740FA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX2821", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "957DJ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990460", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU990461", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000076", 
+            "Submitter Type": "H", 
+            "Submission Date": "2/8/2008 9:33:14 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "203V"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000504SH002", 
+            "Submitter Type": "G", 
+            "Submission Date": "5/4/2000 7:53:24 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "196KW"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000294", 
+            "Submitter Type": "C", 
+            "Submission Date": "3/5/2002 11:47:13 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "14WQ"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000028", 
+            "Submitter Type": "B", 
+            "Submission Date": "1/10/2007 1:22:54 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "442TA"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4508", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "UO2R", 
+            "Registration #": "HBUME"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000162", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/19/2012 2:06:01 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "350TX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2015FA0000179", 
+            "Submitter Type": "D", 
+            "Submission Date": "5/6/2015 9:08:41 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "8PB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA151216013", 
+            "Submitter Type": "Z", 
+            "Submission Date": "4/22/2016 10:50:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3991", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "18VX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3992", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "295L"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3970", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "169RD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3975", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5516V"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX3988", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "16HH"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2013FA0000605", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/24/2013 8:33:04 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "49CK"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "FAA2014071500001", 
+            "Submitter Type": "C", 
+            "Submission Date": "7/15/2014 1:12:08 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "472WM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX4198", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "3249"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "94ZZZX7056", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/21/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "55EX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "94ZZZX7057", 
+            "Submitter Type": "D", 
+            "Submission Date": "2/21/1995 12:00:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "55EX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX830", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "93DE"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX2548", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "120J"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000029", 
+            "Submitter Type": "G", 
+            "Submission Date": "1/7/2005 12:37:53 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "154MD"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "9132005", 
+            "Submitter Type": "G", 
+            "Submission Date": "9/14/2005 2:24:04 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "1QB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97031300148", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "29TM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97031300233", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "7989"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX2833", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "2FOR"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000469", 
+            "Submitter Type": "G", 
+            "Submission Date": "11/5/2001 3:17:23 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "3948"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX4000", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "37BB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "99ZZZX2151", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "527RL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000694", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/31/2004 12:58:08 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "669AM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AUS20030456", 
+            "Submitter Type": "W", 
+            "Submission Date": "6/16/2003 12:08:23 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000907", 
+            "Submitter Type": "W", 
+            "Submission Date": "11/2/2000 12:26:37 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001205SH010", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/5/2000 9:07:48 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "54JL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX486", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "120VT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX501", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "120VT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "98ZZZX502", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "120VT"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU980722", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "07/20/2001(mm/dd/yyyy)", 
+            "Unique Control #": "BB1", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/20/2001 3:28:41 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0000528", 
+            "Submitter Type": "G", 
+            "Submission Date": "6/7/2010 7:35:15 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "193S"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX3074", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "18FL"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "96ZZZX3081", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "283SX"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0000667", 
+            "Submitter Type": "G", 
+            "Submission Date": "7/7/2006 9:57:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "342MG"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX1642", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4T"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0001076", 
+            "Submitter Type": "G", 
+            "Submission Date": "11/15/2006 9:27:43 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "162HM"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CX2A08ON153", 
+            "Submitter Type": "A", 
+            "Submission Date": "7/30/2008 4:51:14 PM", 
+            "Submitter Designator": "C2XA", 
+            "Registration #": "12220"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "MWP2009F00000", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/28/2009 9:21:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "987JB"
+        }, 
+        "manufacturer": {
+            "text": "AMTR - AMTR", 
+            "value": "AMTR"
+        }
+    }
+]

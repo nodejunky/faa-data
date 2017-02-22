@@ -1,0 +1,898 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA140318009", 
+            "Submitter Type": "W", 
+            "Submission Date": "3/12/2015 10:00:01 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000330SH010", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/30/2000 1:36:09 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "26086"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX947", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "AWKR", 
+            "Registration #": "1197Z"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX948", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "AWKR", 
+            "Registration #": "1197Z"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX949", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "AWKR", 
+            "Registration #": "1197Z"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX950", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "AWKR", 
+            "Registration #": "1197Z"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2017FA0000001", 
+            "Submitter Type": "G", 
+            "Submission Date": "1/4/2017 5:57:31 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "505"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000637", 
+            "Submitter Type": "B", 
+            "Submission Date": "9/29/2008 10:39:04 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "28665"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000638", 
+            "Submitter Type": "B", 
+            "Submission Date": "9/29/2008 10:45:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "28665"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000650", 
+            "Submitter Type": "B", 
+            "Submission Date": "9/26/2012 12:00:12 PM", 
+            "Submitter Designator": "NX42", 
+            "Registration #": "93ER"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000000", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/3/2012 7:09:43 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9745U"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "GILALEX404", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/9/2004 8:20:36 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "28478"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "GILALEX404A", 
+            "Submitter Type": "D", 
+            "Submission Date": "4/9/2004 8:29:57 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "28478"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000515SH020", 
+            "Submitter Type": "B", 
+            "Submission Date": "5/15/2000 10:38:57 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4553C"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000811SH013", 
+            "Submitter Type": "D", 
+            "Submission Date": "8/11/2000 1:13:07 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "28384"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000193", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/21/2008 8:15:22 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000106", 
+            "Submitter Type": "B", 
+            "Submission Date": "12/11/2001 11:57:41 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "1194T"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0000215", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/4/2005 2:59:54 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "123VU"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001583", 
+            "Submitter Type": "D", 
+            "Submission Date": "12/16/2005 9:32:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "26403"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000422", 
+            "Submitter Type": "C", 
+            "Submission Date": "5/27/2004 9:39:01 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "74608"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001341", 
+            "Submitter Type": "B", 
+            "Submission Date": "10/3/2005 1:40:01 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "938TE"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000920SH011", 
+            "Submitter Type": "H", 
+            "Submission Date": "9/20/2000 10:41:27 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "7C"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000059", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/19/2007 9:15:58 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4521A"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000096", 
+            "Submitter Type": "F", 
+            "Submission Date": "12/10/2001 2:36:42 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "999TE"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000056", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/19/2007 8:20:10 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "11966"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "YHLR200200001", 
+            "Submitter Type": "B", 
+            "Submission Date": "10/10/2002 12:33:35 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "854PD"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000050", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/18/2007 10:44:19 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9962U"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "97ZZZX1958", 
+            "Submitter Type": "B", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "PF2R", 
+            "Registration #": "128VU"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001120SH058", 
+            "Submitter Type": "D", 
+            "Submission Date": "11/20/2000 2:48:13 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "6084L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001297", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/19/2005 8:04:06 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "9920U"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000401", 
+            "Submitter Type": "G", 
+            "Submission Date": "10/18/2001 9:34:31 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "1409R"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000268", 
+            "Submitter Type": "B", 
+            "Submission Date": "4/29/2011 12:01:33 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "934TE"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000409", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/19/2001 10:03:40 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "5903L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2011FA0000671", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/7/2011 11:12:06 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "4521A"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2000ZZZX48", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "26411"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA100504009", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/4/2011 11:00:18 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000076", 
+            "Submitter Type": "B", 
+            "Submission Date": "1/14/2004 3:05:28 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "875L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AU000871", 
+            "Submitter Type": "W", 
+            "Submission Date": "10/3/2000 8:13:11 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000713", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/16/2004 10:54:44 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "959TE"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2001FA0000389", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/9/2001 12:46:56 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5985L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0001146", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/12/2003 11:46:37 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "940TE"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "AALA2009042800843", 
+            "Submitter Type": "A", 
+            "Submission Date": "6/11/2009 2:44:48 PM", 
+            "Submitter Designator": "AALA", 
+            "Registration #": "951AN"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000622SH028", 
+            "Submitter Type": "H", 
+            "Submission Date": "6/22/2000 12:19:56 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5437L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2003FA0000876", 
+            "Submitter Type": "B", 
+            "Submission Date": "8/27/2003 2:00:54 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "934TE"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2010FA0001125", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/19/2010 4:53:24 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "528CC"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2000ZZZX374", 
+            "Submitter Type": "D", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "26456"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2005FA0001552", 
+            "Submitter Type": "D", 
+            "Submission Date": "11/26/2005 10:47:39 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "23JK"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20000517SH024", 
+            "Submitter Type": "B", 
+            "Submission Date": "5/17/2000 1:24:16 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "4553C"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "5906L", 
+            "Submitter Type": "F", 
+            "Submission Date": "4/22/2003 4:25:32 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "5906L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "95ZZZX6177", 
+            "Submitter Type": "H", 
+            "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "1193A"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000831", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/22/2004 8:47:16 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "400LM"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001227SH034", 
+            "Submitter Type": "H", 
+            "Submission Date": "12/27/2000 3:19:43 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "26993"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "20001228SH001", 
+            "Submitter Type": "H", 
+            "Submission Date": "12/28/2000 7:16:59 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "26993"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA090106007", 
+            "Submitter Type": "W", 
+            "Submission Date": "2/2/2009 9:50:03 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "RMM2001F00001", 
+            "Submitter Type": "B", 
+            "Submission Date": "10/30/2001 3:08:53 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "26411"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000837", 
+            "Submitter Type": "D", 
+            "Submission Date": "10/22/2004 1:15:44 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "9253L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000178", 
+            "Submitter Type": "G", 
+            "Submission Date": "2/12/2004 12:35:43 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "6291L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0000325", 
+            "Submitter Type": "G", 
+            "Submission Date": "3/1/2002 10:28:25 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "5999L"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2002FA0001104", 
+            "Submitter Type": "D", 
+            "Submission Date": "9/23/2002 3:18:52 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "1317R"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2006FA0001134", 
+            "Submitter Type": "B", 
+            "Submission Date": "12/4/2006 12:36:33 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "45343"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2004FA0000888", 
+            "Submitter Type": "B", 
+            "Submission Date": "12/8/2004 3:14:28 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "929TE"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA010118012", 
+            "Submitter Type": "W", 
+            "Submission Date": "2/1/2001 2:56:04 PM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "CA010103005", 
+            "Submitter Type": "W", 
+            "Submission Date": "1/19/2001 8:27:37 AM", 
+            "Submitter Designator": "", 
+            "Registration #": ""
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2007FA0000091", 
+            "Submitter Type": "D", 
+            "Submission Date": "1/30/2007 12:17:53 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "24AU"
+        }, 
+        "manufacturer": {
+            "text": "AMRGEN - AMERICAN GENERAL ACFT CORP", 
+            "value": "AMRGEN"
+        }
+    }
+]

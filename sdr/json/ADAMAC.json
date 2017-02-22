@@ -1,0 +1,30 @@
+[
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2008FA0000497", 
+            "Submitter Type": "D", 
+            "Submission Date": "7/24/2008 7:12:00 AM", 
+            "Submitter Designator": "", 
+            "Registration #": "896MH"
+        }, 
+        "manufacturer": {
+            "text": "ADAMAC - ADAM AIRCRAFT INDUSTRIES", 
+            "value": "ADAMAC"
+        }
+    }, 
+    {
+        "sdr": {
+            "Difficulty Date": "", 
+            "Unique Control #": "2012FA0000747", 
+            "Submitter Type": "B", 
+            "Submission Date": "11/6/2012 3:06:49 PM", 
+            "Submitter Designator": "", 
+            "Registration #": "510AX"
+        }, 
+        "manufacturer": {
+            "text": "ADAMAC - ADAM AIRCRAFT INDUSTRIES", 
+            "value": "ADAMAC"
+        }
+    }
+]
