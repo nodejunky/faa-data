@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "CONT", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "2011FA0000338", 
+            "JASC/ATA Code": "7300", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "O", 
+            "Aircraft": "ALON", 
             "Submitter Type": "D", 
             "Submission Date": "6/3/2011 9:00:37 AM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "95CV"
+            "Registration #": "95CV", 
+            "District Office": "09"
         }, 
         "manufacturer": {
             "text": "ALON - ALON INCORPORATED", 

@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "LYC", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2004FA0000759", 
+            "JASC/ATA Code": "2820", 
+            "FAA Region": "CE", 
+            "Nature of Condition": "K", 
+            "Aircraft": "AIRPTS", 
             "Submitter Type": "G", 
             "Submission Date": "9/28/2004 8:54:02 AM", 
+            "Propeller": "MCAULY", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "7798V"
+            "Registration #": "7798V", 
+            "District Office": "07"
         }, 
         "manufacturer": {
             "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
@@ -15,12 +28,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "LYC", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2006FA0001203", 
+            "JASC/ATA Code": "3213", 
+            "FAA Region": "GL", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIRPTS", 
             "Submitter Type": "D", 
             "Submission Date": "12/21/2006 1:08:48 PM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "7638V"
+            "Registration #": "7638V", 
+            "District Office": "09"
         }, 
         "manufacturer": {
             "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
@@ -29,12 +55,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "2011FA0000548", 
+            "JASC/ATA Code": "7414", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIRPTS", 
             "Submitter Type": "D", 
             "Submission Date": "8/26/2011 10:58:41 AM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "7662V"
+            "Registration #": "7662V", 
+            "District Office": "07"
         }, 
         "manufacturer": {
             "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
@@ -43,12 +82,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "2011FA0000547", 
+            "JASC/ATA Code": "7414", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIRPTS", 
             "Submitter Type": "C", 
             "Submission Date": "8/26/2011 10:46:48 AM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "7662V"
+            "Registration #": "7662V", 
+            "District Office": "07"
         }, 
         "manufacturer": {
             "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
@@ -57,12 +109,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "LYC", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "AU960437", 
+            "JASC/ATA Code": "3246", 
+            "FAA Region": "AU", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIRPTS", 
             "Submitter Type": "W", 
             "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Propeller": "", 
+            "How Discovered": "", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": ""
+            "Registration #": "", 
+            "District Office": "S"
         }, 
         "manufacturer": {
             "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
@@ -71,12 +136,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "AU960179", 
+            "JASC/ATA Code": "5720", 
+            "FAA Region": "AU", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIRPTS", 
             "Submitter Type": "W", 
             "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Propeller": "", 
+            "How Discovered": "", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": ""
+            "Registration #": "", 
+            "District Office": "S"
         }, 
         "manufacturer": {
             "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
@@ -85,12 +163,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "95ZZZX185", 
+            "JASC/ATA Code": "5510", 
+            "FAA Region": "CE", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIRPTS", 
             "Submitter Type": "D", 
             "Submission Date": "1/20/1995 12:00:00 AM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "7798V"
+            "Registration #": "7798V", 
+            "District Office": "09"
         }, 
         "manufacturer": {
             "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 
@@ -99,12 +190,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "95ZZZX186", 
+            "JASC/ATA Code": "5510", 
+            "FAA Region": "CE", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIRPTS", 
             "Submitter Type": "D", 
             "Submission Date": "1/20/1995 12:00:00 AM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "7798V"
+            "Registration #": "7798V", 
+            "District Office": "09"
         }, 
         "manufacturer": {
             "text": "AIRPTS - ACFT PARTS & DEVELMT CORP (INSTR)", 

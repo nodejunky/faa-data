@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "CONT", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2008FA0000497", 
+            "JASC/ATA Code": "2701", 
+            "FAA Region": "WP", 
+            "Nature of Condition": "W", 
+            "Aircraft": "ADAMAC", 
             "Submitter Type": "D", 
             "Submission Date": "7/24/2008 7:12:00 AM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "896MH"
+            "Registration #": "896MH", 
+            "District Office": "27"
         }, 
         "manufacturer": {
             "text": "ADAMAC - ADAM AIRCRAFT INDUSTRIES", 
@@ -15,12 +28,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "CONT", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "2012FA0000747", 
+            "JASC/ATA Code": "7810", 
+            "FAA Region": "EA", 
+            "Nature of Condition": "O", 
+            "Aircraft": "ADAMAC", 
             "Submitter Type": "B", 
             "Submission Date": "11/6/2012 3:06:49 PM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "510AX"
+            "Registration #": "510AX", 
+            "District Office": "13"
         }, 
         "manufacturer": {
             "text": "ADAMAC - ADAM AIRCRAFT INDUSTRIES", 

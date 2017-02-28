@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "EY2R9600102", 
+            "JASC/ATA Code": "6110", 
+            "FAA Region": "GL", 
+            "Nature of Condition": "O", 
+            "Aircraft": "ADAMS", 
             "Submitter Type": "B", 
             "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Propeller": "MCAULY", 
+            "How Discovered": "", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": ""
+            "Registration #": "", 
+            "District Office": "03"
         }, 
         "manufacturer": {
             "text": "ADAMS - ADAMS BALLOONS", 
@@ -15,12 +28,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "CONT", 
             "Difficulty Date": "", 
+            "Stage of Operation": "CR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "A", 
+            "Flight Number": "", 
             "Unique Control #": "CA140617004", 
+            "JASC/ATA Code": "8570", 
+            "FAA Region": "SW", 
+            "Nature of Condition": "M", 
+            "Aircraft": "ADAMS", 
             "Submitter Type": "Z", 
             "Submission Date": "3/12/2015 10:00:01 AM", 
+            "Propeller": "", 
+            "How Discovered": "O", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": ""
+            "Registration #": "", 
+            "District Office": "99"
         }, 
         "manufacturer": {
             "text": "ADAMS - ADAMS BALLOONS", 

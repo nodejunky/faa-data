@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "PWA", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "LM1R", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "200701", 
+            "JASC/ATA Code": "7210", 
+            "FAA Region": "EA", 
+            "Nature of Condition": "O", 
+            "Aircraft": "ACQCOR", 
             "Submitter Type": "B", 
             "Submission Date": "4/4/2007 2:06:06 PM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "G", 
             "Submitter Designator": "LM1R", 
-            "Registration #": ""
+            "Registration #": "", 
+            "District Office": "09"
         }, 
         "manufacturer": {
             "text": "ACQCOR - AIRCRAFT ACQUISITION CORP", 
@@ -15,12 +28,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2000ZZZX728", 
+            "JASC/ATA Code": "3230", 
+            "FAA Region": "SW", 
+            "Nature of Condition": "O", 
+            "Aircraft": "ACQCOR", 
             "Submitter Type": "G", 
             "Submission Date": "3/26/2000 4:11:31 PM", 
+            "Propeller": "", 
+            "How Discovered": "", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "92K"
+            "Registration #": "92K", 
+            "District Office": "05"
         }, 
         "manufacturer": {
             "text": "ACQCOR - AIRCRAFT ACQUISITION CORP", 
@@ -29,12 +55,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "ASAA", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "ASAA0110068", 
+            "JASC/ATA Code": "5320", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "O", 
+            "Aircraft": "ACQCOR", 
             "Submitter Type": "A", 
             "Submission Date": "4/3/2001 8:19:11 AM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "A", 
             "Submitter Designator": "", 
-            "Registration #": "742AS"
+            "Registration #": "742AS", 
+            "District Office": "01"
         }, 
         "manufacturer": {
             "text": "ACQCOR - AIRCRAFT ACQUISITION CORP", 

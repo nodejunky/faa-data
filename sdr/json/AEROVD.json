@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "AUS20020929", 
+            "JASC/ATA Code": "4920", 
+            "FAA Region": "AU", 
+            "Nature of Condition": "E", 
+            "Aircraft": "AEROVD", 
             "Submitter Type": "W", 
             "Submission Date": "9/6/2002 9:16:03 AM", 
+            "Propeller": "", 
+            "How Discovered": "O", 
+            "Operator Type": "A", 
             "Submitter Designator": "", 
-            "Registration #": ""
+            "Registration #": "", 
+            "District Office": "S"
         }, 
         "manufacturer": {
             "text": "AEROVD - AEROVODOCHODY", 
@@ -15,12 +28,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2003FA0000423", 
+            "JASC/ATA Code": "2910", 
+            "FAA Region": "NE", 
+            "Nature of Condition": "K", 
+            "Aircraft": "AEROVD", 
             "Submitter Type": "D", 
             "Submission Date": "4/23/2003 11:26:11 AM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "82674"
+            "Registration #": "82674", 
+            "District Office": "05"
         }, 
         "manufacturer": {
             "text": "AEROVD - AEROVODOCHODY", 

@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "ROTAX", 
             "Difficulty Date": "", 
+            "Stage of Operation": "AP", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "A", 
+            "Flight Number": "", 
             "Unique Control #": "2011FA0000800", 
+            "JASC/ATA Code": "2820", 
+            "FAA Region": "SO", 
+            "Nature of Condition": "Y", 
+            "Aircraft": "AESPZO", 
             "Submitter Type": "G", 
             "Submission Date": "12/23/2011 7:05:43 AM", 
+            "Propeller": "", 
+            "How Discovered": "O", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "701CF"
+            "Registration #": "701CF", 
+            "District Office": "15"
         }, 
         "manufacturer": {
             "text": "AESPZO - AERO SP ZOO", 

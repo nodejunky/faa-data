@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2004FA0000337", 
+            "JASC/ATA Code": "8097", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIMM", 
             "Submitter Type": "B", 
             "Submission Date": "3/29/2004 11:36:40 AM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "139XS"
+            "Registration #": "139XS", 
+            "District Office": "03"
         }, 
         "manufacturer": {
             "text": "AIMM - AEROMOTINDUSTRIALTDA", 
@@ -15,12 +28,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "ROTAX", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "L1MR", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2004FA0000799", 
+            "JASC/ATA Code": "2810", 
+            "FAA Region": "WP", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIMM", 
             "Submitter Type": "B", 
             "Submission Date": "10/8/2004 11:25:20 AM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "117MQ"
+            "Registration #": "117MQ", 
+            "District Office": "11"
         }, 
         "manufacturer": {
             "text": "AIMM - AEROMOTINDUSTRIALTDA", 
@@ -29,12 +55,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "LD", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2004FA0000384", 
+            "JASC/ATA Code": "1430", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIMM", 
             "Submitter Type": "B", 
             "Submission Date": "4/21/2004 2:53:31 PM", 
+            "Propeller": "", 
+            "How Discovered": "O", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "136XS"
+            "Registration #": "136XS", 
+            "District Office": "03"
         }, 
         "manufacturer": {
             "text": "AIMM - AEROMOTINDUSTRIALTDA", 
@@ -43,12 +82,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "LD", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2004FA0000382", 
+            "JASC/ATA Code": "8097", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIMM", 
             "Submitter Type": "B", 
             "Submission Date": "3/29/2004 10:56:55 AM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "140XS"
+            "Registration #": "140XS", 
+            "District Office": "03"
         }, 
         "manufacturer": {
             "text": "AIMM - AEROMOTINDUSTRIALTDA", 
@@ -57,12 +109,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "LD", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2004FA0000368", 
+            "JASC/ATA Code": "8097", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIMM", 
             "Submitter Type": "B", 
             "Submission Date": "3/29/2004 10:17:34 AM", 
+            "Propeller": "", 
+            "How Discovered": "O", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "136XS"
+            "Registration #": "136XS", 
+            "District Office": "03"
         }, 
         "manufacturer": {
             "text": "AIMM - AEROMOTINDUSTRIALTDA", 
@@ -71,12 +136,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "2002FA0000541", 
+            "JASC/ATA Code": "2720", 
+            "FAA Region": "CE", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AIMM", 
             "Submitter Type": "D", 
             "Submission Date": "4/25/2002 3:40:24 PM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "757DM"
+            "Registration #": "757DM", 
+            "District Office": "09"
         }, 
         "manufacturer": {
             "text": "AIMM - AEROMOTINDUSTRIALTDA", 
@@ -85,12 +163,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "CR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2003FA0000590", 
+            "JASC/ATA Code": "5523", 
+            "FAA Region": "NM", 
+            "Nature of Condition": "W", 
+            "Aircraft": "AIMM", 
             "Submitter Type": "B", 
             "Submission Date": "5/1/2003 6:33:51 PM", 
+            "Propeller": "", 
+            "How Discovered": "O", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "147XS"
+            "Registration #": "147XS", 
+            "District Office": "03"
         }, 
         "manufacturer": {
             "text": "AIMM - AEROMOTINDUSTRIALTDA", 

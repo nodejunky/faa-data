@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "CONT", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2007FA0000891", 
+            "JASC/ATA Code": "8530", 
+            "FAA Region": "SO", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AMCNLG", 
             "Submitter Type": "D", 
             "Submission Date": "10/11/2007 6:40:03 AM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "65LC"
+            "Registration #": "65LC", 
+            "District Office": "05"
         }, 
         "manufacturer": {
             "text": "AMCNLG - AMERICAN LEGEND AIRCRAFT COMPANY", 
@@ -15,12 +28,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2015FA0000169", 
+            "JASC/ATA Code": "2820", 
+            "FAA Region": "SW", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AMCNLG", 
             "Submitter Type": "C", 
             "Submission Date": "4/30/2015 12:21:15 PM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "7732Z"
+            "Registration #": "7732Z", 
+            "District Office": "13"
         }, 
         "manufacturer": {
             "text": "AMCNLG - AMERICAN LEGEND AIRCRAFT COMPANY", 

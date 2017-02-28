@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "ROTAX", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "CA060929003", 
+            "JASC/ATA Code": "6122", 
+            "FAA Region": "CA", 
+            "Nature of Condition": "F", 
+            "Aircraft": "AMBLP", 
             "Submitter Type": "W", 
             "Submission Date": "12/4/2006 1:46:34 PM", 
+            "Propeller": "", 
+            "How Discovered": "O", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": ""
+            "Registration #": "", 
+            "District Office": ""
         }, 
         "manufacturer": {
             "text": "AMBLP - AMERICAN BLIMP CORP", 
@@ -15,12 +28,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "ROTAX", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "CA060124005", 
+            "JASC/ATA Code": "7160", 
+            "FAA Region": "CA", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AMBLP", 
             "Submitter Type": "W", 
             "Submission Date": "6/6/2006 10:36:16 AM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": ""
+            "Registration #": "", 
+            "District Office": ""
         }, 
         "manufacturer": {
             "text": "AMBLP - AMERICAN BLIMP CORP", 
@@ -29,12 +55,25 @@
     }, 
     {
         "sdr": {
+            "Engine": "LYC", 
             "Difficulty Date": "", 
+            "Stage of Operation": "NR", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "O", 
+            "Flight Number": "", 
             "Unique Control #": "2004FA0000088", 
+            "JASC/ATA Code": "2720", 
+            "FAA Region": "SO", 
+            "Nature of Condition": "O", 
+            "Aircraft": "AMBLP", 
             "Submitter Type": "D", 
             "Submission Date": "1/20/2004 2:26:48 PM", 
+            "Propeller": "", 
+            "How Discovered": "9", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "154ZP"
+            "Registration #": "154ZP", 
+            "District Office": "15"
         }, 
         "manufacturer": {
             "text": "AMBLP - AMERICAN BLIMP CORP", 

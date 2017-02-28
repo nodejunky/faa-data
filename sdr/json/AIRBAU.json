@@ -1,12 +1,25 @@
 [
     {
         "sdr": {
+            "Engine": "ROTAX", 
             "Difficulty Date": "", 
+            "Stage of Operation": "IN", 
+            "Operator Designator": "", 
+            "Precautionary Procedures": "K", 
+            "Flight Number": "", 
             "Unique Control #": "2010FA0000575", 
+            "JASC/ATA Code": "8550", 
+            "FAA Region": "SW", 
+            "Nature of Condition": "K", 
+            "Aircraft": "AIRBAU", 
             "Submitter Type": "S", 
             "Submission Date": "6/16/2010 11:44:53 AM", 
+            "Propeller": "", 
+            "How Discovered": "V", 
+            "Operator Type": "G", 
             "Submitter Designator": "", 
-            "Registration #": "582XT"
+            "Registration #": "582XT", 
+            "District Office": "99"
         }, 
         "manufacturer": {
             "text": "AIRBAU - AIRBORNE WINDSPORTS AUSTRALIA", 
